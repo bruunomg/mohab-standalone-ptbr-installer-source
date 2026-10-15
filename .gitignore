@@ -1,0 +1,15 @@
+# Do not commit distributed binaries or game assets.
+*.obb
+*.pak
+*.bnk
+*.wem
+*.exe
+*.dll
+*.zip
+*.7z
+*.rar
+
+# Local/editor files
+.DS_Store
+Thumbs.db
+desktop.ini

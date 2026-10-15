@@ -1,0 +1,29 @@
+COMO ENVIAR ESTE CODIGO PARA O GITHUB
+=====================================
+
+1. Entre em https://github.com e acesse a sua conta.
+2. Clique em New repository.
+3. Nome sugerido:
+   mohab-standalone-ptbr-installer-source
+4. Marque o repositorio como Public.
+5. Nao adicione README, .gitignore ou licenca pelo site, porque eles ja estao nesta pasta.
+6. Crie o repositorio.
+7. Clique em uploading an existing file.
+8. Envie TODOS os arquivos e pastas deste pacote, mantendo as pastas docs e scripts.
+9. Confirme o envio em Commit changes.
+10. Copie o endereco publico do repositorio.
+11. Abra NEXUS_SUPPORT_REPLY.txt, substitua:
+    [PASTE THE PUBLIC GITHUB LINK HERE]
+    pelo endereco copiado.
+12. Substitua tambem:
+    [YOUR NAME OR NEXUS MODS USERNAME]
+    pelo seu nome de usuario.
+13. Envie essa resposta ao suporte do Nexus Mods.
+
+IMPORTANTE
+----------
+
+- Nao envie a OBB, arquivos PAK, BNK, WEM, EXE ou DLL para este repositorio.
+- O repositorio e somente para o codigo-fonte dos BATs e a documentacao tecnica.
+- O Nexus Mods continuara hospedando o pacote completo do mod.
+- O link enviado ao suporte precisa estar publico para os moderadores conseguirem abrir.

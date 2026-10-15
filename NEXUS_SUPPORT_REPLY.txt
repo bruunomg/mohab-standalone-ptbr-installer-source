@@ -1,0 +1,21 @@
+Good Afternoon,
+
+As requested, I have published the complete source code and documentation for the installer included with my mod:
+
+GitHub repository: [PASTE THE PUBLIC GITHUB LINK HERE]
+
+The mod does not contain a custom compiled installer or launcher. Its complete original code consists of two readable Windows batch files, both available in the repository under the scripts folder.
+
+The distributed package also contains adb.exe, AdbWinApi.dll, and AdbWinUsbApi.dll from Google's official Android SDK Platform-Tools. These third-party files were not created or modified by me. The repository identifies their exact version, SHA-256 hashes, official download page, documentation, and Google AOSP source-code link.
+
+The large OBB file is the mod's game-data container. It contains Unreal Engine PAK data with the Brazilian Portuguese Wwise audio banks and localization resources. It is not an executable or installer source file. Its exact size, SHA-256 hash, and internal file list are documented in the repository.
+
+The batch installer only uses ADB to create an original backup and replace patch.3. It does not modify main.obb, download files, contact external servers, request administrator privileges, install services, modify the Windows Registry, or launch the game automatically.
+
+Installation requires a PICO or Meta Quest headset with Developer Mode and USB debugging enabled. The user connects the headset by USB, authorizes the computer, and runs the batch installer. The supported game package is com.Virtuos.R6DLM, version code 12297, version 0.518.
+
+Please let me know if you require any additional files or verification information.
+
+Kind regards,
+
+[YOUR NAME OR NEXUS MODS USERNAME]
